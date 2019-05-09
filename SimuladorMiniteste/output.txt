@@ -1,0 +1,1662 @@
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2:
+Elemento no serviço: 7
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 4
+Elemento no serviço: 7
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 4 6
+Elemento no serviço: 7
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 6
+Elemento no serviço: 10
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 6 8
+Elemento no serviço: 10
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 8
+Elemento no serviço: 13
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 8 10
+Elemento no serviço: 13
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 11
+Elementos na Fila 2: 8 10
+Elemento no serviço: 13
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 11
+Elementos na Fila 2: 8 10 12
+Elemento no serviço: 13
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 8 10 12
+Elemento no serviço: 16
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 8 10 12 14
+Elemento no serviço: 16
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 10 12 14
+Elemento no serviço: 19
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 10 12 14 16
+Elemento no serviço: 19
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 10 12 14 16 18
+Elemento no serviço: 19
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 12 14 16 18
+Elemento no serviço: 22
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 12 14 16 18 20
+Elemento no serviço: 22
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 21
+Elementos na Fila 2: 12 14 16 18 20
+Elemento no serviço: 22
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 12 14 16 18 20
+Elemento no serviço: 25
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 12 14 16 18 20 22
+Elemento no serviço: 25
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 12 14 16 18 20 22 24
+Elemento no serviço: 25
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 14 16 18 20 22 24
+Elemento no serviço: 28
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 14 16 18 20 22 24 26
+Elemento no serviço: 28
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 16 18 20 22 24 26
+Elemento no serviço: 31
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 16 18 20 22 24 26 28
+Elemento no serviço: 31
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 16 18 20 22 24 26 28 30
+Elemento no serviço: 31
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 31
+Elementos na Fila 2: 16 18 20 22 24 26 28 30
+Elemento no serviço: 31
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 16 18 20 22 24 26 28 30
+Elemento no serviço: 34
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 16 18 20 22 24 26 28 30 32
+Elemento no serviço: 34
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 18 20 22 24 26 28 30 32
+Elemento no serviço: 37
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 18 20 22 24 26 28 30 32 34
+Elemento no serviço: 37
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 18 20 22 24 26 28 30 32 34 36
+Elemento no serviço: 37
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 20 22 24 26 28 30 32 34 36
+Elemento no serviço: 40
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 20 22 24 26 28 30 32 34 36 38
+Elemento no serviço: 40
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 22 24 26 28 30 32 34 36 38
+Elemento no serviço: 43
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 22 24 26 28 30 32 34 36 38 40
+Elemento no serviço: 43
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 41
+Elementos na Fila 2: 22 24 26 28 30 32 34 36 38 40
+Elemento no serviço: 43
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 41
+Elementos na Fila 2: 22 24 26 28 30 32 34 36 38 40 42
+Elemento no serviço: 43
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 22 24 26 28 30 32 34 36 38 40 42
+Elemento no serviço: 46
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 22 24 26 28 30 32 34 36 38 40 42 44
+Elemento no serviço: 46
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 24 26 28 30 32 34 36 38 40 42 44
+Elemento no serviço: 49
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 24 26 28 30 32 34 36 38 40 42 44 46
+Elemento no serviço: 49
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 24 26 28 30 32 34 36 38 40 42 44 46 48
+Elemento no serviço: 49
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 26 28 30 32 34 36 38 40 42 44 46 48
+Elemento no serviço: 52
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 26 28 30 32 34 36 38 40 42 44 46 48 50
+Elemento no serviço: 52
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 51
+Elementos na Fila 2: 26 28 30 32 34 36 38 40 42 44 46 48 50
+Elemento no serviço: 52
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 26 28 30 32 34 36 38 40 42 44 46 48 50
+Elemento no serviço: 55
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 26 28 30 32 34 36 38 40 42 44 46 48 50 52
+Elemento no serviço: 55
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54
+Elemento no serviço: 55
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 28 30 32 34 36 38 40 42 44 46 48 50 52 54
+Elemento no serviço: 58
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56
+Elemento no serviço: 58
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 30 32 34 36 38 40 42 44 46 48 50 52 54 56
+Elemento no serviço: 61
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58
+Elemento no serviço: 61
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60
+Elemento no serviço: 61
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 61
+Elementos na Fila 2: 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60
+Elemento no serviço: 61
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60
+Elemento no serviço: 64
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62
+Elemento no serviço: 64
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62
+Elemento no serviço: 67
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64
+Elemento no serviço: 67
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66
+Elemento no serviço: 67
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66
+Elemento no serviço: 70
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68
+Elemento no serviço: 70
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68
+Elemento no serviço: 73
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70
+Elemento no serviço: 73
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 71
+Elementos na Fila 2: 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70
+Elemento no serviço: 73
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 71
+Elementos na Fila 2: 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72
+Elemento no serviço: 73
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72
+Elemento no serviço: 76
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74
+Elemento no serviço: 76
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74
+Elemento no serviço: 79
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76
+Elemento no serviço: 79
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78
+Elemento no serviço: 79
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78
+Elemento no serviço: 82
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80
+Elemento no serviço: 82
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 81
+Elementos na Fila 2: 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80
+Elemento no serviço: 82
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80
+Elemento no serviço: 85
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82
+Elemento no serviço: 85
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84
+Elemento no serviço: 85
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84
+Elemento no serviço: 88
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86
+Elemento no serviço: 88
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86
+Elemento no serviço: 91
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88
+Elemento no serviço: 91
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90
+Elemento no serviço: 91
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 91
+Elementos na Fila 2: 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90
+Elemento no serviço: 91
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90
+Elemento no serviço: 94
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92
+Elemento no serviço: 94
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92
+Elemento no serviço: 97
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94
+Elemento no serviço: 97
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96
+Elemento no serviço: 97
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96
+Elemento no serviço: 100
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98
+Elemento no serviço: 100
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98
+Elemento no serviço: 103
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100
+Elemento no serviço: 103
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 101
+Elementos na Fila 2: 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100
+Elemento no serviço: 103
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 101
+Elementos na Fila 2: 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102
+Elemento no serviço: 103
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102
+Elemento no serviço: 106
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104
+Elemento no serviço: 106
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104
+Elemento no serviço: 109
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106
+Elemento no serviço: 109
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108
+Elemento no serviço: 109
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108
+Elemento no serviço: 112
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110
+Elemento no serviço: 112
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 111
+Elementos na Fila 2: 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110
+Elemento no serviço: 112
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110
+Elemento no serviço: 115
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112
+Elemento no serviço: 115
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114
+Elemento no serviço: 115
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114
+Elemento no serviço: 118
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116
+Elemento no serviço: 118
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116
+Elemento no serviço: 121
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118
+Elemento no serviço: 121
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120
+Elemento no serviço: 121
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 121
+Elementos na Fila 2: 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120
+Elemento no serviço: 121
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120
+Elemento no serviço: 124
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122
+Elemento no serviço: 124
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122
+Elemento no serviço: 127
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124
+Elemento no serviço: 127
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126
+Elemento no serviço: 127
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126
+Elemento no serviço: 130
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128
+Elemento no serviço: 130
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128
+Elemento no serviço: 133
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130
+Elemento no serviço: 133
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 131
+Elementos na Fila 2: 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130
+Elemento no serviço: 133
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 131
+Elementos na Fila 2: 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132
+Elemento no serviço: 133
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132
+Elemento no serviço: 136
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134
+Elemento no serviço: 136
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134
+Elemento no serviço: 139
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136
+Elemento no serviço: 139
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138
+Elemento no serviço: 139
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138
+Elemento no serviço: 142
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140
+Elemento no serviço: 142
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 141
+Elementos na Fila 2: 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140
+Elemento no serviço: 142
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140
+Elemento no serviço: 145
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142
+Elemento no serviço: 145
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144
+Elemento no serviço: 145
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144
+Elemento no serviço: 148
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146
+Elemento no serviço: 148
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146
+Elemento no serviço: 151
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148
+Elemento no serviço: 151
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150
+Elemento no serviço: 151
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 151
+Elementos na Fila 2: 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150
+Elemento no serviço: 151
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150
+Elemento no serviço: 154
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152
+Elemento no serviço: 154
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152
+Elemento no serviço: 157
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154
+Elemento no serviço: 157
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156
+Elemento no serviço: 157
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156
+Elemento no serviço: 160
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158
+Elemento no serviço: 160
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158
+Elemento no serviço: 163
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160
+Elemento no serviço: 163
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 161
+Elementos na Fila 2: 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160
+Elemento no serviço: 163
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 161
+Elementos na Fila 2: 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162
+Elemento no serviço: 163
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162
+Elemento no serviço: 166
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164
+Elemento no serviço: 166
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164
+Elemento no serviço: 169
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166
+Elemento no serviço: 169
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168
+Elemento no serviço: 169
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168
+Elemento no serviço: 172
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170
+Elemento no serviço: 172
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 171
+Elementos na Fila 2: 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170
+Elemento no serviço: 172
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170
+Elemento no serviço: 175
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172
+Elemento no serviço: 175
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174
+Elemento no serviço: 175
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174
+Elemento no serviço: 178
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176
+Elemento no serviço: 178
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176
+Elemento no serviço: 181
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178
+Elemento no serviço: 181
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180
+Elemento no serviço: 181
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 181
+Elementos na Fila 2: 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180
+Elemento no serviço: 181
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180
+Elemento no serviço: 184
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182
+Elemento no serviço: 184
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182
+Elemento no serviço: 187
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184
+Elemento no serviço: 187
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186
+Elemento no serviço: 187
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186
+Elemento no serviço: 190
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188
+Elemento no serviço: 190
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188
+Elemento no serviço: 193
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190
+Elemento no serviço: 193
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 191
+Elementos na Fila 2: 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190
+Elemento no serviço: 193
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 191
+Elementos na Fila 2: 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192
+Elemento no serviço: 193
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192
+Elemento no serviço: 196
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194
+Elemento no serviço: 196
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194
+Elemento no serviço: 199
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196
+Elemento no serviço: 199
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198
+Elemento no serviço: 199
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198
+Elemento no serviço: 202
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200
+Elemento no serviço: 202
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 201
+Elementos na Fila 2: 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200
+Elemento no serviço: 202
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200
+Elemento no serviço: 205
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202
+Elemento no serviço: 205
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204
+Elemento no serviço: 205
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204
+Elemento no serviço: 208
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 98 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206
+Elemento no serviço: 208
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206
+Elemento no serviço: 211
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208
+Elemento no serviço: 211
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210
+Elemento no serviço: 211
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 211
+Elementos na Fila 2: 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210
+Elemento no serviço: 211
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210
+Elemento no serviço: 214
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 100 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212
+Elemento no serviço: 214
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212
+Elemento no serviço: 217
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214
+Elemento no serviço: 217
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 102 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216
+Elemento no serviço: 217
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216
+Elemento no serviço: 220
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 104 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218
+Elemento no serviço: 220
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218
+Elemento no serviço: 223
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220
+Elemento no serviço: 223
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 221
+Elementos na Fila 2: 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220
+Elemento no serviço: 223
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 221
+Elementos na Fila 2: 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222
+Elemento no serviço: 223
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222
+Elemento no serviço: 226
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 106 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224
+Elemento no serviço: 226
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224
+Elemento no serviço: 229
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226
+Elemento no serviço: 229
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 108 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228
+Elemento no serviço: 229
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228
+Elemento no serviço: 232
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230
+Elemento no serviço: 232
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 231
+Elementos na Fila 2: 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230
+Elemento no serviço: 232
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230
+Elemento no serviço: 235
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232
+Elemento no serviço: 235
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 110 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234
+Elemento no serviço: 235
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234
+Elemento no serviço: 238
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 112 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236
+Elemento no serviço: 238
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236
+Elemento no serviço: 241
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238
+Elemento no serviço: 241
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240
+Elemento no serviço: 241
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 241
+Elementos na Fila 2: 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240
+Elemento no serviço: 241
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240
+Elemento no serviço: 244
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 114 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242
+Elemento no serviço: 244
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242
+Elemento no serviço: 247
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244
+Elemento no serviço: 247
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 116 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246
+Elemento no serviço: 247
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246
+Elemento no serviço: 250
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 118 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248
+Elemento no serviço: 250
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248
+Elemento no serviço: 253
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250
+Elemento no serviço: 253
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 251
+Elementos na Fila 2: 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250
+Elemento no serviço: 253
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 251
+Elementos na Fila 2: 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252
+Elemento no serviço: 253
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252
+Elemento no serviço: 256
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 120 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254
+Elemento no serviço: 256
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254
+Elemento no serviço: 259
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256
+Elemento no serviço: 259
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 122 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258
+Elemento no serviço: 259
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258
+Elemento no serviço: 262
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260
+Elemento no serviço: 262
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 261
+Elementos na Fila 2: 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260
+Elemento no serviço: 262
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260
+Elemento no serviço: 265
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262
+Elemento no serviço: 265
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 124 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264
+Elemento no serviço: 265
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264
+Elemento no serviço: 268
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 126 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266
+Elemento no serviço: 268
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266
+Elemento no serviço: 271
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268
+Elemento no serviço: 271
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270
+Elemento no serviço: 271
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 271
+Elementos na Fila 2: 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270
+Elemento no serviço: 271
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270
+Elemento no serviço: 274
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 128 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272
+Elemento no serviço: 274
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272
+Elemento no serviço: 277
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274
+Elemento no serviço: 277
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 130 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276
+Elemento no serviço: 277
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276
+Elemento no serviço: 280
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 132 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278
+Elemento no serviço: 280
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278
+Elemento no serviço: 283
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280
+Elemento no serviço: 283
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 281
+Elementos na Fila 2: 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280
+Elemento no serviço: 283
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1: 281
+Elementos na Fila 2: 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282
+Elemento no serviço: 283
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282
+Elemento no serviço: 286
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 134 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284
+Elemento no serviço: 286
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284
+Elemento no serviço: 289
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286
+Elemento no serviço: 289
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 136 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288
+Elemento no serviço: 289
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288
+Elemento no serviço: 292
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290
+Elemento no serviço: 292
+
+Tipo do Evento: ARRIVAL_1
+
+Elementos na Fila 1: 291
+Elementos na Fila 2: 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290
+Elemento no serviço: 292
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290
+Elemento no serviço: 295
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292
+Elemento no serviço: 295
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 138 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292 294
+Elemento no serviço: 295
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292 294
+Elemento no serviço: 298
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 140 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292 294 296
+Elemento no serviço: 298
+
+Tipo do Evento: SERVICE_COMPLETION
+
+Elementos na Fila 1:
+Elementos na Fila 2: 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292 294 296
+Elemento no serviço: 301
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292 294 296 298
+Elemento no serviço: 301
+
+Tipo do Evento: ARRIVAL_2
+
+Elementos na Fila 1:
+Elementos na Fila 2: 142 144 146 148 150 152 154 156 158 160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198 200 202 204 206 208 210 212 214 216 218 220 222 224 226 228 230 232 234 236 238 240 242 244 246 248 250 252 254 256 258 260 262 264 266 268 270 272 274 276 278 280 282 284 286 288 290 292 294 296 298 300
+Elemento no serviço: 301
