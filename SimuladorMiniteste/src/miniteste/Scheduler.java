@@ -171,32 +171,6 @@ public class Scheduler extends Thread {
 			scheduleEnd(seconds, headEvent);
 		}
 	}
-
-	public void printData(int seconds, Events event) {
-		if (!event.getPrimaryEvent().equals(PrimaryEvents.SERVICE_COMPLETION)) {
-			writer.println("Tipo de evento: Chegada, Momento do evento: " + event.getEventTime());
-			writer.println("Elementos na Fila 1: ");
-			
-			for (Events eventInQueue : queue1) {
-				writer.print(eventInQueue + " ");
-			}
-			
-			writer.println("Elementos na Fila 2: ");
-			
-			for (Events eventInQueue : queue2) {
-				writer.print(eventInQueue + " ");
-			}
-			
-			writer.println("Elemento no serviço: ");
-			
-			if (this.state == SchedulerStates.FREE) {
-				writer.print("Nenhum");	
-			} else {
-				Events elementAtService = this.element;
-				writer.print(elementAtService);
-			}	
-		}
-	}
 	
 	public static void main(String[] args) {
 		int schedulerTime = 20;
