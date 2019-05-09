@@ -11,21 +11,19 @@ public class UniformDistribution {
 	private int lowerBound;
 	private int upperBound;
 	
-	private int mod;
 	private int seed;
-	private int multiplier;
-	private int increment;
+
 	
-	public UniformDistribution(int lowerBound, int upperBound, int seed, int multiplier, int increment) {
+	public UniformDistribution(int lowerBound, int upperBound, int seed, int multiplier, int incremental) {
 		
+		this.seed = seed;
 		this.rng = new RandomNumberGenerator(seed);
 		this.lowerBound = lowerBound;
 		this.upperBound = upperBound;
-		this.seed = seed;
-		this.multiplier = multiplier;
-		this.increment = increment;
-		this.mod = (upperBound - lowerBound) + 1;
-		this.uniformDist = rng.multiplicativeCongruential(multiplier, increment, mod);
+		
+		int mod = (upperBound - lowerBound) + 1;
+		
+		this.uniformDist = rng.multiplicativeCongruential(lowerBound, upperBound, multiplier, incremental, mod);
 		
 	}
 

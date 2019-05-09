@@ -26,12 +26,12 @@ public class Scheduler extends Thread {
 	public Scheduler (int time) {
 				
 		this.queue1 = new LinkedList<Events>();
-		this.ud1 = new UniformDistribution(1, 12, 11, 5, 3);
+		this.ud1 = new UniformDistribution(1, 12, 11, 7, 5);
 		
 		this.queue2 = new LinkedList<Events>();
-		this.ud2 = new UniformDistribution(1, 4, 3, 3, 1);
+		this.ud2 = new UniformDistribution(1, 4, 3, 1, 3);
 		
-		this.udservice = new UniformDistribution(2, 6, 5, 3, 1);
+		this.udservice = new UniformDistribution(2, 6, 5, 1, 3);
 		
 		this.timeLine = new LinkedList<Events>();
 		
@@ -67,12 +67,14 @@ public class Scheduler extends Thread {
 	
 	public void scheduleStartQueue1(int seconds) {
 		event = new Events(PrimaryEvents.ARRIVAL_1, seconds + ud1.getUniformDist().get(index));
+		event.setPrimaryEvent(PrimaryEvents.ARRIVAL_1);
 		this.index++;
 		timeLineEvents(event);
 	}
 	
 	public void scheduleStartQueue2(int seconds) {
 		event = new Events(PrimaryEvents.ARRIVAL_2, seconds + ud2.getUniformDist().get(index));
+		event.setPrimaryEvent(PrimaryEvents.ARRIVAL_2);
 		this.index++;
 		timeLineEvents(event);
 	}
