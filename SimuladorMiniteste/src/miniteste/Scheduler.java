@@ -44,7 +44,7 @@ public class Scheduler extends Thread {
 		this.index = 0;
 		
 		try {
-			writer = new PrintWriter("saida/escalonador", "UTF-8");
+			writer = new PrintWriter("output", "UTF-8");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
