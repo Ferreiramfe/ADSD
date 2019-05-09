@@ -67,28 +67,27 @@ public class Scheduler extends Thread {
 	
 	public void scheduleStartQueue1(int seconds) {
 		event = new Events(PrimaryEvents.ARRIVAL_1, seconds + ud1.getUniformDist().get(index));
-		event.setPrimaryEvent(PrimaryEvents.ARRIVAL_1);
-		this.index++;
 		timeLineEvents(event);
+		this.index++;
 	}
 	
 	public void scheduleStartQueue2(int seconds) {
 		event = new Events(PrimaryEvents.ARRIVAL_2, seconds + ud2.getUniformDist().get(index));
-		event.setPrimaryEvent(PrimaryEvents.ARRIVAL_2);
-		this.index++;
 		timeLineEvents(event);
+		this.index++;
 	}
 	
 	public void scheduleEnd(int seconds, Events event) {
 		event.setPrimaryEvent(PrimaryEvents.SERVICE_COMPLETION);
 		event.setEventTime(seconds + udservice.getUniformDist().get(index));
-		this.index++;
 		this.element = event;
 		timeLineEvents(event);
+		this.index++;
 	}
 	
 	public void timeLineEvents(Events event) {
 		timeLine.add(event);
+		this.index = 0;
 	}
 	
 	public void busyState(int seconds, Events nextEvent) {
@@ -118,24 +117,47 @@ public class Scheduler extends Thread {
 	
 	public void checkState(int seconds) {
 		Events nextEvent = nextEvent(seconds);
+		if (nextEvent == null) {
+			return;
+		}
 		
 		if (nextEvent.getPrimaryEvent().equals(PrimaryEvents.ARRIVAL_1)) {
+			System.out.println("Event: " + nextEvent.getPrimaryEvent() + " Seconds: " + nextEvent.getEventTime());
 			if (this.state == SchedulerStates.FREE) {
 				busyState(seconds, nextEvent);
 			} else {
 				this.queue1.add(nextEvent);
 			}
+			scheduleStartQueue1(seconds);
 		}
 		else if (nextEvent.getPrimaryEvent().equals(PrimaryEvents.ARRIVAL_2)) {
+			System.out.println("Event: " + nextEvent.getPrimaryEvent() + " Seconds: " + nextEvent.getEventTime());
 			if (this.state == SchedulerStates.FREE) {
 				busyState(seconds, nextEvent);
 			} else {
-				this.queue1.add(nextEvent);
+				this.queue2.add(nextEvent);
 			}
+			scheduleStartQueue2(seconds);
 		} 
 		else if (nextEvent.getPrimaryEvent().equals(PrimaryEvents.SERVICE_COMPLETION)) {
+			System.out.println("Event: " + nextEvent.getPrimaryEvent() + " Seconds: " + nextEvent.getEventTime());
 			queueState(seconds);
 		}
+		System.out.println(this.state);
+		System.out.println();
+		System.out.println("Elementos na Fila 1: ");
+		for (Events event : queue1) {
+			System.out.print(event.getEventTime() + " ");
+		}
+		System.out.println();
+		System.out.println("Elementos na Fila 2: ");
+		for (Events event : queue2) {
+			System.out.print(event.getEventTime() + " ");
+		}
+		System.out.println();
+		System.out.println("Elemento no serviço " + this.element.getEventTime());
+		System.out.println();
+		checkState(seconds);
 	}
 	
 	public void queueState(int seconds) {
@@ -177,7 +199,7 @@ public class Scheduler extends Thread {
 	}
 	
 	public static void main(String[] args) {
-		int schedulerTime = 300;
+		int schedulerTime = 20;
 		Scheduler model = new Scheduler(schedulerTime);
 		
 		model.start();

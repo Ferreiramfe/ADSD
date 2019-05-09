@@ -5,7 +5,7 @@ public class Events {
 	private PrimaryEvents primaryEvent;
 	private int eventTime;
 	
-	public Events (PrimaryEvents primaryEven, int eventTime) {
+	public Events (PrimaryEvents primaryEvent, int eventTime) {
 		this.primaryEvent = primaryEvent;
 		this.eventTime = eventTime;
 	}

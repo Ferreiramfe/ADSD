@@ -23,7 +23,7 @@ public class UniformDistribution {
 		
 		int mod = (upperBound - lowerBound) + 1;
 		
-		this.uniformDist = rng.multiplicativeCongruential(lowerBound, upperBound, multiplier, incremental, mod);
+		this.uniformDist = rng.mixedMethod(lowerBound, upperBound, multiplier, incremental, mod);
 		
 	}
 
