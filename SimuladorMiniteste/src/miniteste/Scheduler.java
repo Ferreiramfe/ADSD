@@ -119,11 +119,6 @@ public class Scheduler extends Thread {
 	
 	public void checkState(int seconds) {
 		Events nextEvent = nextEvent(seconds);
-		/*
-		System.out.println();
-		System.out.println("SYSTEM SECONDS: " + seconds);
-		System.out.println(state);
-		System.out.println(); */
 		if (nextEvent == null) {
 			return;
 		}
@@ -132,7 +127,6 @@ public class Scheduler extends Thread {
 			writer.println();
 			writer.println("Tipo do Evento: " + nextEvent.getPrimaryEvent() + ", Momento do Evento: " + seconds);
 			writer.println("Nome do elemento: " + nextEvent.getEventName());
-			//System.out.println("Event: " + nextEvent.getPrimaryEvent() + " event Seconds: " + nextEvent.getEventTime());
 			if (this.state == SchedulerStates.FREE) {
 				busyState(seconds, nextEvent);
 			} else {
@@ -144,7 +138,6 @@ public class Scheduler extends Thread {
 			writer.println();
 			writer.println("Tipo do Evento: " + nextEvent.getPrimaryEvent() + ", Momento do Evento: " + seconds);
 			writer.println("Nome do elemento: " + nextEvent.getEventName());
-			//System.out.println("Event: " + nextEvent.getPrimaryEvent() + " event Seconds: " + nextEvent.getEventTime());
 			if (this.state == SchedulerStates.FREE) {
 				busyState(seconds, nextEvent);
 			} else {
@@ -156,7 +149,6 @@ public class Scheduler extends Thread {
 			writer.println();
 			writer.println("Tipo do Evento: " + nextEvent.getPrimaryEvent() + ", Momento do Evento: " + seconds);
 			writer.println("Nome do elemento: " + nextEvent.getEventName());
-			//System.out.println("Event: " + nextEvent.getPrimaryEvent() + " event Seconds: " + nextEvent.getEventTime());
 			queueState(seconds);
 		}
 		writer.println();
@@ -182,21 +174,6 @@ public class Scheduler extends Thread {
 		writer.print(saida2.replaceAll(", $", ""));
 		writer.println();
 		writer.println("Elemento no serviço: " + this.element.getEventName());
-		/*
-		System.out.println();
-		System.out.print("Elementos na Fila 1: ");
-		for (Events event : queue1) {
-			System.out.print(event.getEventTime() + " ");
-		}
-		System.out.println();
-		System.out.print("Elementos na Fila 2: ");
-		for (Events event : queue2) {
-			System.out.print(event.getEventTime() + " ");
-		}
-		System.out.println();
-		System.out.println("Elemento no serviço: " + this.element.getEventTime());
-		System.out.println();
-		*/ 
 		
 		checkState(seconds);
 	}
