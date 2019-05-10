@@ -2,8 +2,12 @@ package miniteste;
 
 import java.util.Random;
 
-public class NameGenerator {
+/*
+ * codigo tirado de: http://www.java-gaming.org/index.php?topic=35802.0
+ */
 
+public class NameGenerator {
+	
    private static String[] Beginning = { "Kr", "Ca", "Ra", "Mrok", "Cru",
          "Ray", "Bre", "Zed", "Drak", "Mor", "Jag", "Mer", "Jar", "Mjol",
          "Zork", "Mad", "Cry", "Zur", "Creo", "Azak", "Azur", "Rei", "Cro",
