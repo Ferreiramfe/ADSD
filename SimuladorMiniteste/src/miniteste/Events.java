@@ -2,10 +2,12 @@ package miniteste;
 
 public class Events {
 	
+	private String eventName;
 	private PrimaryEvents primaryEvent;
 	private int eventTime;
 	
-	public Events (PrimaryEvents primaryEvent, int eventTime) {
+	public Events (String eventName, PrimaryEvents primaryEvent, int eventTime) {
+		this.eventName = eventName;
 		this.primaryEvent = primaryEvent;
 		this.eventTime = eventTime;
 	}
@@ -24,5 +26,13 @@ public class Events {
 	
 	public int getEventTime() {
 		return eventTime;
+	}
+
+	public String getEventName() {
+		return eventName;
+	}
+
+	public void setEventName(String eventName) {
+		this.eventName = eventName;
 	}
 }
